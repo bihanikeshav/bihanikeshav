@@ -12,8 +12,8 @@
 + likes building things and solving problems;
 + picks up hobbies, then overbuilds tools for them;</code></pre>
     </td>
-        <td width="130" valign="middle">
-      <img src="./assets/pixel-desk-clean.png" width="130">
+        <td width="125" valign="middle">
+      <img src="./assets/pixel-desk-clean.png" width="125">
     </td>
 
   </tr>
