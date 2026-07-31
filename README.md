@@ -37,4 +37,6 @@
   
 - I am building **Kinesis**, a model that estimates what is going on with my muscles from training, food, and sleep. It hyper-optimizes workouts, and now I go to the gym regularly because I want to test the app. *In progress.*
   
+- There is too much misinformation online, and I do not like being steered by overblown facts or propaganda. I built [**Blindspot**](https://blindspot.buzz/) to get closer to what is actually going on.
+
 - LLMs are inefficient. Hundreds of greps, turn after turn, just to understand a repo. Markdown drifts as the project grows, multiple engineers use LLMs to code, and nobody knows the design. I am building [**Doer**](https://doerapp.in) because I want to redefine that workflow.
