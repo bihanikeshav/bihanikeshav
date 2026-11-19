@@ -21,15 +21,9 @@
 
 
 
+At work I build backend and AI systems for tender analysis and procurement, sales outreach, and financial screening. I also work on industrial safety, from SOP assistants and training video generation to real-time camera inference.
+
 ### Things I've built
-
-- [**SmartDoc**](https://smartdoc.aionasset.in/) started as a document tool. Now teams at HUDCO and in the power sector use it to compare vendor bids against the original tender and see where they differ. It has processed about 350 tenders so far.
-
-- Safety procedures change faster than teams can reshoot training videos. With [**Arcturus Studio**](https://www.arcturusbusiness.in/products/video-studio), teams can upload an SOP or script and photos of their actual equipment. We fine-tuned Wan on about 1,000 videos for the safety training style. The workflow keeps people, machines, and scenes consistent across shots, with AI and human review before the video goes into training.
-
-- [**radr**](https://www.tryradr.com/) takes a company website, finds potential buyers from public signals, and drafts a first message based on why each buyer might care.
-
-- [**Quotal**](https://quotal.aionasset.in/) is for firms bidding on government tenders in India. It carries the job from reading the tender and pricing the bid through tracking work on site and raising bills.
 
 - Small prompt or model changes can quietly break a pipeline, so I built [**promptry**](https://github.com/bihanikeshav/promptry) to catch regressions locally.
   
